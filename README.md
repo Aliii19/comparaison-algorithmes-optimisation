@@ -11,7 +11,8 @@ AMALGAM : Un algorithme hybride évolutionnaire combinant plusieurs stratégies,
 
 RandomSearch-5 : Un algorithme de référence basé sur une recherche aléatoire.
 
-Les expériences utilisent des fonctions de référence issues de la suite BBOB (F1, F6, F10, F15, F20) en dimension 2. Les critères d’évaluation sont :
+Les expériences utilisent des fonctions de référence issues de la suite BBOB (F1, F6, F10, F15, F20) .
+Les critères d’évaluation sont :
 
 Temps d’exécution (mesuré en nombre d’évaluations de la fonction).
 
